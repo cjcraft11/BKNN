@@ -1,0 +1,30 @@
+html{
+    background-color: grey;
+}
+
+h1 {
+    font-family: Montserrat Underline;
+    color: crimson;
+    font-size: 60px;
+    text-align: center;
+}
+
+.main_pic {
+    height: 250px;
+    width: 250px;
+    border: 10px solid black;
+    margin-top: 60px;
+}
+
+.intro {
+    font-size: 1rem;
+    font-family: "Atma", cursive;
+    margin-left: 280px;
+    margin-top: -300px;
+}
+
+.closing {
+    color: blueviolet; 
+    text-align: center;  
+    font-family: "Poetsen One"
+}
