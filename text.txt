@@ -1,0 +1,26 @@
+Welcome to BKNN!
+
+Your go-to hub for all things about going on with the Brownkid! Here’s what you can expect:
+            <li>Travel Stories: Explore my adventures and travel tips.</li>
+            <li>Chronicles: Dive into my favorite recipes and foodie finds.</li>            
+            <li>Dog Life: Meet my furry friends and their escapades.
+            <li>Goals: Follow along as I tackle personal and professional milestones.
+            <li>Insights: Discover how I approach studying, growth, and new challenges.
+
+BKNN is a mix of everything I love, and I hope it inspires, entertains, or simply makes you smile. Dive in and explore!
+
+ <p>Hi, I’m CJ Craft! My other persona... or should I say my Social Media persona is BrownKid. 
+        I’m a Junior DevOps Engineer passionate about building, solving problems, and learning new things. 
+       </p>
+       <p>Currently, I’m diving deeper into full-stack web development and expanding my skillset across different areas of tech.       
+        I like to experience everything and try to learn as much as possible from various fields. 
+        I’m a big believer in the power of curiosity and the importance of continuous growth.</p> 
+        <p>Here are a few things that make me who I am:</p>
+    <ul>
+        <li><a href=".travel.html">Traveling</a> to new places fuels my creativity and broadens my knowledge about other cultures and the world.</li>
+        <li>Food is my love language, so always invite me. I like to try new foods all the time.</li>
+        <li>My <a href=".dogs.html"> dogs</a> are my life. Do not get me started on them because I will talk your ear off.</li>
+        <li>Setting <a href=".goals.html">goals</a> and challenging myself keeps me growing every day.</li>
+
+BKNN is my personal space to share my journey, connect with like-minded people, and showcase the things that excite me. 
+            Thanks for being part of this adventure!
