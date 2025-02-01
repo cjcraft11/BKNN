@@ -1,7 +1,13 @@
-.gradient-background {
+.gradient-background2 {
     background-color: #FFFFFF;
     background-image: linear-gradient(90deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
 }
+
+.gradient-background3 {
+background-color: #FFFFFF;
+background-image: linear-gradient(230deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+}
+
 /* TO-DO
 make picture or whole page responsive to size changes */
 
@@ -9,4 +15,8 @@ make picture or whole page responsive to size changes */
    font-family: "Alegreya", serif;
    font-optical-sizing: auto;
    font-size: 25px;
+}
+
+.col {
+    
 }
